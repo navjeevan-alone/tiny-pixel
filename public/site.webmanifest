@@ -1,0 +1,21 @@
+{
+  "name": "TinyPixel",
+  "short_name": "TinyPixel",
+  "icons": [
+    {
+      "src": "/web-app-manifest-192x192.webp",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/web-app-manifest-512x512.webp",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

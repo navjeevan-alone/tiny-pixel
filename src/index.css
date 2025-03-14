@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.truncate-middle{
+    max-width:24rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    direction: rtl;
+    text-align: left;
+}
+
+@media screen and (max-width: 480px) {
+    .truncate-middle{
+        max-width: 16rem;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .truncate-middle{
+        max-width: 12rem;
+    }
+}
