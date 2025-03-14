@@ -12,7 +12,7 @@ TinyPixel is a **fast** and **privacy-friendly** web app for converting images t
 
 ## 🚀 Live Demo  
 
-🎉 **Try it out**: *coming soon*  
+🎉 **Try it out**: [Click Here](https://tinypixel.edburg.in/)   
 
 ---  
 
